@@ -1,8 +1,0 @@
-{
-  "name": "myPhotoGallery",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular",
-  "id": "ece39161"
-}
